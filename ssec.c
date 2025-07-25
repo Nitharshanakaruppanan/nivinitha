@@ -1,2 +1,1 @@
-ssec
-cse department
+git status
